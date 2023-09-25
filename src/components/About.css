@@ -1,0 +1,16 @@
+.about{
+    width: 61%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+ .margin{
+    margin-top: 70px;
+ }
+ .image{
+    width: 240px;
+    margin: auto;
+ }
+.todo {
+    width: 100%;
+ }

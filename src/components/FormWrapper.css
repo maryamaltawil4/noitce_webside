@@ -1,0 +1,14 @@
+
+.centered-button {
+  display: block;
+  margin-left: 75%;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #c9c0c2;
+  background-color: #bdb5b7;
+}
+
+.form-wrapper {
+  text-align: center;
+  padding: 20px;
+}
